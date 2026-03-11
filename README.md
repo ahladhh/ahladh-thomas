@@ -50,4 +50,4 @@ Developed visual dashboards to analyze vehicle pollution and environmental impac
 ## Connect With Me
 
 GitHub: https://github.com/ahladhh  
-LinkedIn: (Add your LinkedIn link here)
+LinkedIn: https://www.linkedin.com/in/ahladh-thomas-52ab0a341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
